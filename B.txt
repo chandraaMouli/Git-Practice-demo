@@ -1,0 +1,6 @@
+java backend developer spring boot
+hibernate
+jpa
+kafka
+tomcat server port
+************-> 1 till here
